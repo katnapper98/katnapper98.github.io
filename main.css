@@ -386,7 +386,7 @@ h1
     color: deepskyblue;
     font-size: 150px;
     position: absolute;
-    bottom: 80px;
+    bottom: 200px;
     left: -5px;
 }
 
@@ -478,7 +478,7 @@ h5{
     color: goldenrod;
     font-size: 200px;
     position: absolute;
-    bottom: 80px;
+    bottom: 200px;
     left: -5px;
 }
 .Tryout_Vids, .Cheer_Vids, .Dance_Vids{
@@ -514,7 +514,7 @@ h5{
     color: deeppink;
     font-size: 200px;
     position: absolute;
-    bottom: 80px;
+    bottom: 200px;
     left: -5px;
 }
 /* This is now for Dances */
@@ -523,7 +523,7 @@ h5{
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     font-weight: 700;
-    font-size: 80px;
+    font-size: 200px;
     
     color: white;
     
@@ -567,7 +567,7 @@ h5{
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     font-weight: 700;
-    font-size: 80px;
+    font-size: 200px;
     
     color: white;
     
