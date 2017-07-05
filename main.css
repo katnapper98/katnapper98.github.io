@@ -299,7 +299,7 @@ h1
     color: white;
     padding: 100px;
 }
-.CheerC_1 > .btn, .TryOut_1 > .btn, .Cheers_1 >.btn, .Dances {
+.CheerC_1 > .btn, .TryOut_1 > .btn, .Cheers_1 >.btn, .Dances_1 >.btn {
     float: left;
     padding: 20px;
     background-color: greenyellow;
@@ -321,7 +321,7 @@ h1
     min-height: 800px;
     padding: 20px;
 }
-.cheerC:hover, .TryOut:hover, .Cheers:hover, .Dances:hover{
+.cheerC:hover, .TryOut:hover, .Cheers:hover,.Dances:hover{
     background-blend-mode: multiply;
 }
 .cheerC {
