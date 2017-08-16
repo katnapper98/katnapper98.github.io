@@ -550,8 +550,8 @@ h5{
 .btn_D, .btn-group_D{
     background-color: greenyellow;
     color: darkblue;
-    top: 0;
-    right: 0;
+    top: 0px;
+    right: 35px;
     position: fixed;
     z-index:3000;
 }
