@@ -350,7 +350,6 @@ h1
 }
 .dropdown-menu_C:focus{
      cursor: pointer;
-     display: block;
     min-width: 200px;
 }
 .btn_C{
