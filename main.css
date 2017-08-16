@@ -346,6 +346,12 @@ h1
     font-size: 16px;
     border: none;
     cursor: pointer;
+    position: relative;
+}
+.dropdown-menu_C:focus{
+     cursor: pointer;
+     display: block;
+    min-width: 200px;
 }
 .btn_C{
     color: blue;
@@ -551,8 +557,9 @@ h5{
     background-color: greenyellow;
     color: darkblue;
     top: 0px;
-    right: 35px;
+    right: 0px;
     position: fixed;
+    min-width: 200px;
     z-index:3000;
 }
 .fa, .glyphicon{
